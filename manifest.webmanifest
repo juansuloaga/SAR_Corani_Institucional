@@ -1,0 +1,22 @@
+{
+  "name": "SAR Corani Institucional",
+  "short_name": "SAR Corani",
+  "description": "Página de inicio institucional del SAR Corani – Programa Nacional Warmi Ñan (MIMP)",
+  "lang": "es-PE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f2f0",
+  "theme_color": "#b0102c",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Correo Institucional", "url": "https://mail.warminan.gob.pe/#1" },
+    { "name": "POI 2026", "url": "https://sites.google.com/aurora.gob.pe/poi-24/poi-2026" },
+    { "name": "Portal Estadístico", "url": "https://portalestadistico.warminan.gob.pe/" }
+  ]
+}
